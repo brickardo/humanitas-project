@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dima",
+      "email": "hitodndz@gmail.com",
+      "password": "123456",
+      "visitData": [10, 30, 25, 30, 27, 23, 19],
+      "timeSpentData": [10, 20, 20, 30, 50, 40, 60],
+      "trainer": "Lukasz",
+      "price": 23.99,
+      "expiresAt": "2026-01-01"
+    }
+  ]
+}
